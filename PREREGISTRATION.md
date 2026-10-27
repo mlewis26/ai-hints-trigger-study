@@ -83,6 +83,8 @@ Days with no AI use are logged with 0 minutes, and no session rows are added. Mi
 
 Any change to this plan after October 22, 2026 will be listed here with the date and the reason.
 
-##| Date | Change | Reason |
-#| Oct 27, 2026 | Session rows for Oct 23-26 were entered from the conversation's exported timestamps instead of each evening. Recall for Oct 23-26 is missing | Daily logging was missed those days. Daily logging resumes Oct 27 |
-#| Oct 27, 2026 | Recall changed from a self-rated Yes/Partly/No to a 3 question quiz (0-3) on yesterday's first Coding/School topic, plus a weekly 1 week delayed quiz (Sundays). Added need for cognition (Oct 27, then end of each phase) and a 3 problem no AI Python test (end of each phase.) | More objective learning and retention measures. NFC baseline is mid A1, not before A1.|
+| Date | Change | Reason |
+
+| Oct 27, 2026 | Session rows for Oct 23-26 were entered from the conversation's exported timestamps instead of each evening. Recall for Oct 23-26 is missing | Daily logging was missed those days. Daily logging resumes Oct 27 |
+
+| Oct 27, 2026 | Recall changed from a self-rated Yes/Partly/No to a 3 question quiz (0-3) on yesterday's first Coding/School topic, plus a weekly 1 week delayed quiz (Sundays). Added need for cognition (Oct 27, then end of each phase) and a 3 problem no AI Python test (end of each phase.) | More objective learning and retention measures. NFC baseline is mid A1, not before A1.|
