@@ -87,3 +87,4 @@ Any change to this plan after October 22, 2026 will be listed here with the date
 |---|---|---|
 | Oct 27, 2026 | Session rows for Oct 23–26 were entered from the conversation's exported timestamps instead of each evening. Recall for Oct 23–26 is missing. | Daily logging was missed those days. Daily logging resumes Oct 27. |
 | Oct 27, 2026 | Recall changed from a self-rated Yes/Partly/No to a 3-question quiz (0–3) on yesterday's first Coding/School topic, plus a weekly 1-week delayed quiz (Sundays). Added Need for Cognition (Oct 27, then end of each phase) and a 3-problem no-AI Python test (end of each phase). | More objective learning and retention measures. NFC baseline is mid-A1, not before A1. |
+| Oct 27, 2026 | Scope clarified: Claude is used only on my Mac (no Claude app on iPhone). The iPhone only reads the Tri's NFC tap. AI minutes come from Mac Screen Time only. | Correction. All session rows so far are on the Mac. |
