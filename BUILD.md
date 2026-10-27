@@ -96,4 +96,4 @@ Tested on October 24, 2026, with repeated on/off taps. Each first tap sent "hint
 
 - **B phases (Nov 5–18 and Dec 3–16):** the Tri is out. I tap it at the start of a topic to turn hints mode on, and tap again to turn it off.
 - **A phases (Oct 23–Nov 4 and Nov 19–Dec 2):** the Tri is put away, and I use Claude normally.
-- Scope stays the same as the preregistration: Claude, in one ongoing conversation, used mainly on my Mac. The iPhone only reads the tap.
+- Scope stays the same as the preregistration: Claude, in one ongoing conversation, used only on my Mac. The iPhone only reads the tap.
